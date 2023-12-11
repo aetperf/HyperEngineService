@@ -44,11 +44,11 @@ sc delete HyperEngineService
 # HyperEngineClient
 
 Use a **postgreSQL client** (JDBC, ODBC, psql, ngpgsql,...) to connect to hyper engine and attach a database :
-host : where you start the service (localhost if you start it on your computer)
-port : 8095
-user : tableau_internal_user
-password : 
-database : the path to your hyper file accessible from the host
+- host : where you start the service (localhost if you start it on your computer)
+- port : 8095
+- user : tableau_internal_user
+- password : 
+- database : the path to your hyper file accessible from the host
 
 SQL Dialect : https://tableau.github.io/hyper-db/docs/sql/
 
