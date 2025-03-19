@@ -56,3 +56,8 @@ SQL Dialect : https://tableau.github.io/hyper-db/docs/sql/
 
 ![dbeaver](https://github.com/aetperf/HyperEngineService/blob/master/images/DBeaver_Connected_To_HyperEngine.jpg?raw=true)
 
+Nota : change the preferQueryMode parameter for the driver to simple : 
+
+![image](https://github.com/user-attachments/assets/3c2161ce-e1cb-4fe7-a01c-b28d87aff094)
+
+
